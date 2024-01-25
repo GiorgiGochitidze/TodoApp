@@ -1,0 +1,11 @@
+.todo-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    gap: 20px;
+    padding-block: 50px;
+}
